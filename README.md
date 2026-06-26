@@ -137,3 +137,5 @@ Tidak diperlukan environment variables untuk setup dasar.
 MIT
 
 Thanks for seeing this repo.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://liftech-portofolio.netlify.app/)
