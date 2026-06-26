@@ -50,7 +50,7 @@ src/
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone <https://github.com/lipp13/portofolio.git>
 cd my-porto
 
 # Install dependencies
@@ -137,5 +137,7 @@ Tidak diperlukan environment variables untuk setup dasar.
 MIT
 
 Thanks for seeing this repo.
+
+## Live Demo Preview
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://liftech-portofolio.netlify.app/)
