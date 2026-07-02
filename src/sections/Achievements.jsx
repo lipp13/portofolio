@@ -56,7 +56,7 @@ export default function Achievements() {
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-1.5 text-sm text-accent hover:text-accent-light transition-colors mt-auto"
                     >
-                      View Details
+                      Learn More
                       <IconExternalLink size={14} />
                     </a>
                   )}

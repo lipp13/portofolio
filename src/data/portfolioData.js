@@ -181,13 +181,33 @@ export const portfolioData = {
   achievements: [
     {
       id: 1,
-      title: "Project Managemen",
+      title: "Pengembangan Aplikasi Web E-Commerce",
+      type: "Certificate",
+      issuer: "SMK Taruna Bhakti",
+      date: "2025",
+      description:
+        "Berhasil menyelesaikan Uji Kompetensi Digital SMK Taruna Bhakti yang menguji kemampuan dalam membangun aplikasi web E-Commerce, implementasi fitur, serta penerapan praktik pengembangan perangkat lunak.",
+      url: null,
+    },
+    {
+      id: 2,
+      title: "Project Management",
       type: "Certificate",
       issuer: "Dicoding Indonesia ",
       date: "2026",
       description:
-        "Sertifikat menyelesaikan course Project Managemen di Dicoding Indonesia.",
+        "Menyelesaikan kelas Project Management dari Dicoding Indonesia dengan materi perencanaan proyek, penyusunan timeline, manajemen risiko, kolaborasi tim, serta implementasi Agile dalam pengembangan software.",
       url: "https://www.dicoding.com/certificates/JMZVO7OROXN9",
+    },
+    {
+      id: 3,
+      title: "Pengembangan Aplikasi Multi-Platform",
+      type: "Certificate",
+      issuer: "SMK Taruna Bhakti",
+      date: "2026",
+      description:
+        "Berhasil menyelesaikan pelatihan Pengembangan Aplikasi Multi-Platform yang membahas analisis kebutuhan, pengembangan aplikasi berbasis web dan mobile, integrasi database, serta penerapan praktik terbaik dalam pengembangan perangkat lunak modern.",
+      url: null,
     },
   ],
 
