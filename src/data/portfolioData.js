@@ -191,16 +191,6 @@ export const portfolioData = {
     },
     {
       id: 2,
-      title: "Project Management",
-      type: "Certificate",
-      issuer: "Dicoding Indonesia ",
-      date: "2026",
-      description:
-        "Menyelesaikan kelas Project Management dari Dicoding Indonesia dengan materi perencanaan proyek, penyusunan timeline, manajemen risiko, kolaborasi tim, serta implementasi Agile dalam pengembangan software.",
-      url: "https://www.dicoding.com/certificates/JMZVO7OROXN9",
-    },
-    {
-      id: 3,
       title: "Pengembangan Aplikasi Multi-Platform",
       type: "Certificate",
       issuer: "SMK Taruna Bhakti",
@@ -208,6 +198,16 @@ export const portfolioData = {
       description:
         "Berhasil menyelesaikan pelatihan Pengembangan Aplikasi Multi-Platform yang membahas analisis kebutuhan, pengembangan aplikasi berbasis web dan mobile, integrasi database, serta penerapan praktik terbaik dalam pengembangan perangkat lunak modern.",
       url: null,
+    },
+    {
+      id: 3,
+      title: "Project Management",
+      type: "Certificate",
+      issuer: "Dicoding Indonesia ",
+      date: "2026",
+      description:
+        "Menyelesaikan kelas Project Management dari Dicoding Indonesia dengan materi perencanaan proyek, penyusunan timeline, manajemen risiko, kolaborasi tim, serta implementasi Agile dalam pengembangan software.",
+      url: "https://www.dicoding.com/certificates/JMZVO7OROXN9",
     },
   ],
 
