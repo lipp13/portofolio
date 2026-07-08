@@ -151,7 +151,7 @@ export const portfolioData = {
     },
   ],
 
-  projectFilters: ["Web App", "UI/UX Design"],
+  projectFilters: ["All", "Web App", "UI/UX Design"],
 
   experience: [
     {
