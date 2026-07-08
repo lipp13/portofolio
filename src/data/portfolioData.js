@@ -4,6 +4,7 @@ import project1Thumbnail from "../assets/images/coffee.png";
 import project2Thumbnail from "../assets/images/farmasi.png";
 import project3Thumbnail from "../assets/images/report.png";
 import project4Thumbnail from "../assets/images/library.png";
+import project5Thumbnail from "../assets/images/edutrack.png";
 
 export const portfolioData = {
   personal: {
@@ -118,7 +119,7 @@ export const portfolioData = {
       id: 3,
       title: "report-sistem-masyarakat",
       description:
-        "web application untuk melaporkan masalah masyarakat dengan fitur pelacakan status laporan dan notifikasi.",
+        "Web application untuk melaporkan masalah masyarakat dengan fitur pelacakan status laporan dan notifikasi.",
       thumbnail: project3Thumbnail,
       techStack: ["Next.js", "Laravel", "MySQL", "Tailwind CSS"],
       category: "Web App",
@@ -128,18 +129,30 @@ export const portfolioData = {
     },
     {
       id: 4,
-      title: "digital-library-app ",
+      title: "digital-library-app",
       description:
-        "web application untuk mengelola perpustakaan digital dengan fitur peminjaman buku, katalog, dan rekomendasi bacaan.",
+        "Web application untuk mengelola perpustakaan digital dengan fitur peminjaman buku, katalog, dan rekomendasi bacaan.",
       thumbnail: project4Thumbnail,
       techStack: ["React", "Next.js", "Tailwind CSS"],
       category: "Web App",
-      status: "In Progress",
+      status: "Completed",
       githubUrl: "https://github.com/lipp13/perpustakaan-digital-beta",
+    },
+    {
+      id: 5,
+      title: "EduTrack Management System",
+      description:
+        "UI/UX design untuk sistem manajemen pendidikan yang mencakup fitur pelacakan kemajuan siswa, manajemen kurikulum, dan analisis data.",
+      thumbnail: project5Thumbnail,
+      techStack: ["TypeScript", "Vite"],
+      category: "UI/UX Design",
+      status: "Completed",
+      githubUrl:
+        "https://www.figma.com/design/zLxYAJ1yN0i78TiRQIz1eF/Untitled?node-id=0-1&t=DFjGCNZCebYCDisf-1",
     },
   ],
 
-  projectFilters: ["Web App", "Mobile App - Coming Soon"],
+  projectFilters: ["Web App", "UI/UX Design"],
 
   experience: [
     {
