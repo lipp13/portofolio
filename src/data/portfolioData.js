@@ -4,7 +4,7 @@ import project1Thumbnail from "../assets/images/coffee.png";
 import project2Thumbnail from "../assets/images/farmasi.png";
 import project3Thumbnail from "../assets/images/report.png";
 import project4Thumbnail from "../assets/images/library.png";
-import project5Thumbnail from "../assets/images/edutrack.png";
+import project5Thumbnail from "../assets/images/EduTrack.png";
 
 export const portfolioData = {
   personal: {
