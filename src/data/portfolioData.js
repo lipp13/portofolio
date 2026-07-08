@@ -147,8 +147,7 @@ export const portfolioData = {
       techStack: ["TypeScript", "Vite"],
       category: "UI/UX Design",
       status: "Completed",
-      githubUrl:
-        "https://www.figma.com/design/zLxYAJ1yN0i78TiRQIz1eF/Untitled?node-id=0-1&t=DFjGCNZCebYCDisf-1",
+      liveUrl: "https://www.figma.com/design/zLxYAJ1yN0i78TiRQIz1eF/Untitled?node-id=0-1&t=DFjGCNZCebYCDisf-1",
     },
   ],
 
