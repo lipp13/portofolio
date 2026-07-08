@@ -1,5 +1,5 @@
 import heroImage from "../assets/me.jpeg";
-import cv from "/public/cv/CV_Alif_Alfathar.pdf";
+import cv from "/public/cv/CV_PORTOFOLIO_Alif_Alfathar.pdf";
 import project1Thumbnail from "../assets/images/coffee.png";
 import project2Thumbnail from "../assets/images/farmasi.png";
 import project3Thumbnail from "../assets/images/report.png";
