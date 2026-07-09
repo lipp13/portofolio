@@ -5,6 +5,7 @@ import project2Thumbnail from "../assets/images/farmasi.png";
 import project3Thumbnail from "../assets/images/report.png";
 import project4Thumbnail from "../assets/images/library.png";
 import project5Thumbnail from "../assets/images/EduTrack.png";
+import project6Thumbnail from "../assets/images/e-commerce.png";
 
 export const portfolioData = {
   personal: {
@@ -144,10 +145,21 @@ export const portfolioData = {
       description:
         "UI/UX design untuk sistem manajemen pendidikan yang mencakup fitur pelacakan kemajuan siswa, manajemen kurikulum, dan analisis data.",
       thumbnail: project5Thumbnail,
-      techStack: ["TypeScript", "Vite"],
+      techStack: ["Figma"],
       category: "UI/UX Design",
       status: "Completed",
-      liveUrl: "https://www.figma.com/design/zLxYAJ1yN0i78TiRQIz1eF/Untitled?node-id=0-1&t=DFjGCNZCebYCDisf-1",
+      liveUrl:
+        "https://www.figma.com/design/zLxYAJ1yN0i78TiRQIz1eF/Untitled?node-id=0-1&t=DFjGCNZCebYCDisf-1",
+    },
+    {
+      id: 6,
+      title: "E-Commerce Platform",
+      description:
+        "UI/UX design untuk platform e-commerce yang mencakup fitur katalog produk, keranjang belanja, dan proses checkout.",
+      thumbnail: project6Thumbnail,
+      techStack: ["Figma"],
+      category: "UI/UX Design",
+      status: "Completed",
     },
   ],
 
